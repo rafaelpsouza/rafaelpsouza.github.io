@@ -1,0 +1,28 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Rafael Souza
+tagline:          'Engenharia de Software'
+description:      'Falando sobre Engenharia de Software'
+url:              http://rafaelsouza.eng.br
+
+author:
+  name:           'Rafael de Paula Souza'
+  url:            http://rafaelsouza.eng.br
+
+paginate:         30
+
+# Custom vars
+twitter:      https://twitter.com/rafael_psouza
+
+github:
+  repo:           https://github.com/rafaelpsouza
+
+linkedin:
+  pt:         http://linkedin.com/in/rafaelpsouza
+  en:         http://linkedin.com/in/rafaelpsouza/en
