@@ -11,7 +11,7 @@ This is my personal website where I'll talk about Software Engineering.
 ### Contact me
 
 Find me on [Github][github] / [Twitter][Twitter] or just say `Hello` at 
-[rafael.bnc@gmail.com](rafael.bnc@gmail.com).
+<mailto:rafael.bnc@gmail.com>.
 
 
 [github]: https://github.com/rafaelpsouza
