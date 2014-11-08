@@ -26,7 +26,7 @@
     <body class="{{ site.harmony.basetheme }}">
         <header class="main-header">
             <div class="wc-container">
-                <h1><a href="{{ site.baseurl }}/">{{ site.harmony.name }}</a></h1>
+                <h1><a href="/">{{ site.harmony.name }}</a></h1>
                 <h2>{{ site.harmony.description }}</h2>
                 {% include header-links.html %}                
             </div>
@@ -60,9 +60,9 @@
         <!-- jQuery -->
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
         <!-- When no internet load JQuery from local -->
-        <script>window.jQuery || document.write('<script src="{{ site.baseurl }}/assets/js/jquery.min.js"><\/script>')</script>
+        <script>window.jQuery || document.write('<script src="/assets/js/jquery.min.js"><\/script>')</script>
         <!-- Site js -->
-        <script src="{{ site.baseurl }}/assets/js/all.js"></script>
+        <script src="/assets/js/all.js"></script>
         <!-- Google analytics  -->
         {% include google-analytics.html %}
     </body>        
