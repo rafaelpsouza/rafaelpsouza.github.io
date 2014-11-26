@@ -4,46 +4,35 @@ title: References
 permalink: /references/
 ---
 
-Some of my main references in software engineering.
+Some of my software engineering main references:
 
 
 ### Design
 
-[Rich Hickey: Design, Composition and Performance]
-(http://www.infoq.com/presentations/Design-Composition-Performance)
+- [Book: Agile Software Development, Principles, Patterns, and Practices](http://www.amazon.com/Software-Development-Principles-Patterns-Practices/dp/0135974445) 
 
-[Rich Hickey: Simple Made Easy]
-(http://www.infoq.com/presentations/Simple-Made-Easy-QCon-London-2012)
+- [Uncle Bob Martin: Blog](http://blog.cleancoder.com)
 
-[Rich Hickey: The Value of Values]
-(http://www.infoq.com/presentations/Value-Values)
+- [Uncle Bob Martin: Blog 2](http://blog.8thlight.com/uncle-bob/archive.html)
 
-[Rich Hickey: Hammock Driven Development]
-(https://www.youtube.com/watch?v=f84n5oFoZBc)
+- [Uncle Bob Martin: The Single Responsibility Principle](http://blog.8thlight.com/uncle-bob/2014/05/08/SingleReponsibilityPrinciple.html)
 
-[Uncle Bob Martin: Blog]
-(http://blog.cleancoder.com)
+- [Rich Hickey: Design, Composition and Performance](http://www.infoq.com/presentations/Design-Composition-Performance)
 
-[Uncle Bob Martin: Blog 2]
-(http://blog.8thlight.com/uncle-bob/archive.html)
+- [Rich Hickey: Simple Made Easy](http://www.infoq.com/presentations/Simple-Made-Easy-QCon-London-2012)
 
-[Uncle Bob Martin: The Single Responsibility Principle | 8th Light]
-(http://blog.8thlight.com/uncle-bob/2014/05/08/SingleReponsibilityPrinciple.html)
+- [Rich Hickey: The Value of Values](http://www.infoq.com/presentations/Value-Values)
 
-[Clean Coders: Videos]
-(http://cleancoders.com)
+- [Rich Hickey: Hammock Driven Development](https://www.youtube.com/watch?v=f84n5oFoZBc)
 
-[Martin Fowler: Is Design Dead?]
-(http://martinfowler.com/articles/designDead.html)
+- [Martin Fowler: Is Design Dead?](http://martinfowler.com/articles/designDead.html)
 
-[Martin Fowler: Design Stamina Hypothesis]
-(http://martinfowler.com/bliki/DesignStaminaHypothesis.html)
+- [Martin Fowler: Design Stamina Hypothesis](http://martinfowler.com/bliki/DesignStaminaHypothesis.html)
 
-[Coding the Architecture: Modularity and testability]
-(http://www.codingthearchitecture.com/2014/10/01/modularity_and_testability.html)
+- [Coding the Architecture: Modularity and testability](http://www.codingthearchitecture.com/2014/10/01/modularity_and_testability.html)
 
-[Design Patterns Catalog]
-(http://sourcemaking.com/design_patterns)
+- [Design Patterns Catalog](http://sourcemaking.com/design_patterns)
 
-[Tiobe Quality Indicator]
-(http://www.tiobe.com/content/paperinfo/TIOBEQualityIndicator.pdf)
+- [Tiobe Quality Indicator](http://www.tiobe.com/content/paperinfo/TIOBEQualityIndicator.pdf)
+
+- [Clean Coders: Videos](http://cleancoders.com)
