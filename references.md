@@ -8,7 +8,7 @@ Some of my software engineering main references: [Design](#design) / [Architectu
 
 ### <a name="design"></a>Design
 
-- [What is Software Design?] (http://www.bleading-edge.com/Publications/C++Journal/Cpjour2.htm)
+- [What is Software Design?](http://www.bleading-edge.com/Publications/C++Journal/Cpjour2.htm)
 
 - [Book: Agile Software Development, Principles, Patterns, and Practices](http://www.amazon.com/Software-Development-Principles-Patterns-Practices/dp/0135974445) 
 
