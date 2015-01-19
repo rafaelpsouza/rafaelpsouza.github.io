@@ -5,7 +5,7 @@ date:   2015-01-18 23:00:00
 description: Softwares are naturally complex and one of the biggest challenges in the Software Engineering is dealing with this complexity. As it’s a complex problem solving activity, often it’s necessary to make assumptions in the Software Development. There are some ways to verify and test those assumptions and, in this current post, I’ll talk about Proofs of Concept.
 categories:
 - design
-permalink: Software Engineering and Proofs of Concept
+permalink: software-engineering-and-proofs-of-concept
 ---
 
 Software Development is naturally complex and one of the biggest challenges in the Software Engineering is dealing with this complexity. As it’s a complex problem solving activity, often it’s necessary to make assumptions in the Software Development. There are some ways to verify and test those assumptions and, in this current post, I’ll talk about Proofs of Concept.
