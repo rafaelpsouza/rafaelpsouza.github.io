@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Structuring a Spring Boot Application"
-date:   2015-21-18 02:20:00
+date:   2015-05-21 02:20:00
 description: In his post about Clean Architecture, Uncle Bob explains how to achieve separation of concerns dividing the software into layers following The Dependency Rule. In this post I show a Spring Boot example project structured using the Clean Architecture concept.
 categories:
 - spring-boot, clean-architecture, design
@@ -16,9 +16,16 @@ The example uses [Spring Boot](http://projects.spring.io/spring-boot/) and [Jers
 
 ## Projects and Concepts
 
+
  - multi-projects: the root project with the plugin definitions and the common dependencies.
  - service-app: responsible for configure and run the application execution. 
  - service-endpoints: It has the versioned endpoints. 
  - service-implementation: It encapsulates the application specific business rules.
 
 Depending on the need, this structure can be composed by more then these four projects, the important thing is to have projects with a clear concept following The Dependency Rule. The idea behind the use of this kind of structure is to make a reinforcement of where the developers have to put their code aiming the loose coupling and a clear separation of concerns.
+
+
+## Project Code and My Spring Boot Spikes
+
+[https://github.com/rafaelpsouza/spring-boot-spikes/tree/master/multi-projects](https://github.com/rafaelpsouza/spring-boot-spikes/tree/master/multi-projects)
+[https://github.com/rafaelpsouza/spring-boot-spikes](https://github.com/rafaelpsouza/spring-boot-spikes)
