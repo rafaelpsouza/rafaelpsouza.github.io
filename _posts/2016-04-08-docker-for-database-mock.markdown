@@ -2,7 +2,7 @@
 layout: post
 title:  "Docker for Database Mock"
 date:   2016-04-08 18:00:00
-description: In the Java world the most popular approach to test with [mocked/in memory databases][1] is using H2 or HSQLDB. These databases work well and can emulate some database syntax and behavior, but like most emulations, this is superficial, imperfect and doesn't cover important database features.
+description: Sometime ago I decided to create a Java library to easily launch a docker container with a real database instance (like postgres, mysql and so on). This database will be running as an in memory test database and the process to do that is lightweight and quick, what is really useful for test purposes.
 categories:
 - devops, microservices, docker, tests, database
 permalink: docker-for-database-mock
@@ -10,7 +10,7 @@ permalink: docker-for-database-mock
 
 In the Java world the most popular approach to test with [mocked/in memory databases][1] is using H2 or HSQLDB. These databases work well and can emulate some database syntax and behavior, but like most emulations, this is superficial, imperfect and doesn't cover important database features.
 
-So, sometime ago [I decided to create a Java library][5] to easily launch a docker container with a real database instance (like postgres, mysql and so on). This database will be running [in memory][1] and the process to do that is lightweight and quick, what is really useful for test purposes.
+So, sometime ago [I decided to create a Java library][5] to easily launch a docker container with a real database instance (like postgres, mysql and so on). This database will be running [as an in memory test database][1] and the process to do that is lightweight and quick, what is really useful for test purposes.
 
 
 ## Overview
