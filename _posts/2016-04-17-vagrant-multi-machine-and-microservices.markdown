@@ -2,7 +2,7 @@
 layout: post
 title:  "Vagrant Multi-Machine and Microservices"
 date:   2016-04-17 02:31:00
-description: How I use Vagrant multi-machine to help me in a microservices project.
+description: Vagrant is a really useful tool in the DevOps era. I’ve been using it for almost three years and I can’t say how much it has helped me in the work and studies/evaluations/POCs. In this post I show how I used Vagrant in an e-commerce project.
 categories:
 - devops, microservices, vagrant, haproxy, spring
 permalink: vagrant-multi-machine-and-microservices
