@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Vagrant Multi-Machine and Microservices"
-date:   2015-07-27 18:00:00
+date:   2016-04-17 02:31:00
 description: How I use Vagrant multi-machine to help me in a microservices project.
 categories:
 - devops, microservices, vagrant, haproxy, spring
