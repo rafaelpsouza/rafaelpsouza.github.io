@@ -33,7 +33,7 @@ Quando é feita por um desenvolvedor, este centraliza a comunicação com o Prod
 Quando é realizada em equipe, a Design Session é mais dinâmica e colaborativa dispensando revisão e briefing, e nesse caso, os requisitos já devem estar mais claros ou o Product Owner estar junto à equipe.
 
 <center>
-![Design Session colaborativa](../assets/img/design-session.jpg)
+![Image](../assets/img/design-session.jpg)
 </center>
 
 A prática de Design Session, geralmente é aplicada por User Story e trabalhada em duas [etapas cíclicas][11]. Em uma dessas etapas olhamos para o contexto do problema: variáveis, requisitos, natureza da informação, componentes envolvidos, participantes e etc. A outra etapa envolve a parte mais técnica do design de software e o ponto fundamental é esboçar a solução que vai nortear o desenvolvimento, nesta etapa estão envolvidos: [design patterns][5], [SOLID][6], trade-off, algoritmo, estrutura de dados, [composição de componentes][7], entre outros.
