@@ -56,5 +56,5 @@ Embora seja comum vermos diagramas de classes e componentes como resultados das 
 [9]: http://www.agilemodeling.com/artifacts/crcModel.htm "Class Responsibility Collaborator"
 [10]: http://martinfowler.com/articles/designDead.html "Software Design"
 [11]: https://www.youtube.com/watch?v=f84n5oFoZBc#t=320 "Hammock Driven Development"
-[12]: /public/design-session.jpg "Design Session Colaborativa"
+[12]: /assets/img/design-session.jpg "Design Session Colaborativa"
 [13]: http://engineering.ilegra.com/extreme-programming/2014/05/07/design-session/
