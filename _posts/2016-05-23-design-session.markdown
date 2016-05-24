@@ -4,7 +4,7 @@ title: "Design Session"
 categories: 
 - extreme-programming
 - design
-date:   2016-23-05 23:30:00
+date: 2016-05-23 23:30:00
 description: A Design Session é um processo colaborativo de aprendizado e problematização no qual o objetivo é evoluir, iniciar ou afirmar um design de software. É importante ressaltar que, ao contrário da fase de Design proposta pelo modelo Waterfall, a Desing Session não se propõe a entender e resolver todo o problema antes da sua implementação, e sim levantar, de forma rápida, as principais variáveis envolvidas e propor um esboço que funcione como norte para o desenvolvimento.
 permalink: design-session
 ---
