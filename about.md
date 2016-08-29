@@ -4,13 +4,12 @@ title: About me
 permalink: /about/
 ---
 
-I am Computer Engineer and I work with I like: Software Development. In my 8+ years experience I've taught web development, built my own company and worked as developer, technical lead, consultant and software architect.
-
-This is my personal website where I'll talk about Software Engineering.
+I am Computer Engineer with over nine years experience developing and maintaining a wide variety softwares. Passionate about source code and problem solving, expert in Java and strong in software architecture and  engineering.
 
 ### Contact me
 
-Find me on [Github][github] / [Twitter][Twitter]
+Find me on [Github][github] / [Twitter][Twitter] / [Linkedin][linkedin]
 
 [github]: https://github.com/rafaelpsouza
 [twitter]: https://twitter.com/rafael_psouza
+[linkedin]: https://www.linkedin.com/in/rafaelpsouza
