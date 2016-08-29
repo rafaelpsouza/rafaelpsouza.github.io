@@ -9,7 +9,6 @@ url:
 # Localhost 
 #url: http://127.0.0.1:4000  
 
-# Harmony theme configuration. Please change accordingly.
 harmony:
   name: Rafael Souza
   description: Talking about Software Engineering
@@ -28,15 +27,12 @@ harmony:
     github: rafaelpsouza
     twitter: rafael_psouza
     facebook: rafaelpsouza
-    #gplus: +GayanVirajith
-    #dribble: gayan
-    #pinterest: 
   # Toggle disclaimer in footer
   show_disclaimer: true
 
 # Conversion / Build settings 
 markdown:    kramdown
-highlighter: pygments # this is how you put pygments config in jekyll 2.0 instead of pygments: true
+highlighter: rouge # this is how you put pygments config in jekyll 2.0 instead of pygments: true
 
 # Permalinks
 permalink:        pretty
