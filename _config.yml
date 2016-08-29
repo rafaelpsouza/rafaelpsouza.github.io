@@ -12,20 +12,15 @@ url:
 # Harmony theme configuration. Please change accordingly.
 harmony:
   name: Rafael Souza
-  # Little description about your site
   description: Talking about Software Engineering
-  # 'meta_description:' Write an awesome description for your new site here.
-  # It will appear in your document head meta (for Google search results) and 
-  # in your feed.xml site description.
   meta_description: > # 
-   Personal website talking about Talking about Software Engineering 
-  basetheme: theme-base-01 # pre defined thmes are darken, blue-water, redish.
-  author: # Author details
+   Personal website: Talking about Software Engineering 
+  basetheme: theme-base-01
+  author:
     name: Rafael Souza
-    email: rafael.bnc@gmail.com
+    email: rafaelpsouza {at} gmail {dot} com
     url: http://rafaelsouza.eng.br
 
-  # Google Analytics key, leave blank to ignore
   google_analytics_key: UA-48087458-1
 
   # Profile links, leave blank to ignore
