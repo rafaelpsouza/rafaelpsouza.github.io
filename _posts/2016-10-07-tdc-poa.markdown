@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "Palestra TDC Porto Alegre 2016"
+date:   2016-07-10 14:00:00
+description: Minha apresentação, na trilha de Arquitetura de Software, realizada no The Developers Conference Porto Alegre. Contei um pouco do como foi o último projeto que participei trabalhando com coleta, armazenamento e visualização de métricas em uma arquitetura de microserviços na cloud.
+categories:
+- devops, microservices, SRE, observability, monitoring, telemetry, collectd, tsdb
+permalink: tdc-poa-2016
+---
+
+Coleta, armazenamento e visualização de métricas (Observability) em uma arquitetura de microserviços na cloud.
+
+O monitoramento e a visibilidade da saúde e performance de componentes em uma arquitetura de microserviços é fundamental para determinar, de uma forma rápida, a causa raiz de possíveis problemas além de fornecer insights para melhorias de eficiência.
+
+Nessa apresentação vou contar um pouco do meu último ano trabalhando, para um cliente do Vale do Silício, com instrumentação, coleta, armazenamento e visualização de métricas (Observability) em uma arquitetura de microserviços na cloud.
+
+Além dos principais problemas e soluções encontradas vou abordar os seguintes tópicos: a arquitetura para instrumentação, coleta, armazenamento e visualização de métricas; Collectd; Sensu e SignaFx.
+
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/2bTY8XXtgEAHQ7" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/rafaelps/coleta-armazenamento-e-visualizao-de-mtricas-em-uma-arquitetura-de-microservios-na-cloud" title="Coleta, armazenamento e visualização de métricas em uma arquitetura de microserviços na cloud" target="_blank">Coleta, armazenamento e visualização de métricas em uma arquitetura de microserviços na cloud</a> </strong> de <strong><a target="_blank" href="//www.slideshare.net/rafaelps">Rafael de Paula Souza</a></strong> </div>
+
+
+Referências:
+
+- [Gorilla: A Fast, Scalable, In-Memory Time Series Database](http://www.vldb.org/pvldb/vol8/p1816-teller.pdf)
+- [Observability at Twitter](https://blog.twitter.com/2013/observability-at-twitter)
+- [Observability at Twitter: technical overview, part I](https://blog.twitter.com/2016/observability-at-twitter-technical-overview-part-i)
+- [Observability at Twitter: technical overview, part II](https://blog.twitter.com/2016/observability-at-twitter-technical-overview-part-ii)
+- [HOW UBER THINKS ABOUT SITE RELIABILITY ENGINEERING](https://eng.uber.com/sre-talks-feb-2016/)
+- [Microservice Trade-Offs](http://martinfowler.com/articles/microservice-trade-offs.html)
+- [Deploying the Netflix API](http://techblog.netflix.com/2013/08/deploying-netflix-api.html)
+- [Top10 Time Series Databases](https://blog.dataloop.io/top10-open-source-time-series-databases)
