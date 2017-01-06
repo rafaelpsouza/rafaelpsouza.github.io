@@ -53,4 +53,4 @@ Por fim, prefiro a seguinte afirmação:
 
 ## Referências:
 
-[1]: Hassenzahl, M. & Tractinsky, N. 2006, User Experience – a Research Agenda. Behaviour and Information Technology, Vol. 25, No. 2, March–April 2006, pp. 91-97
+`[1]`: Hassenzahl, M. & Tractinsky, N. 2006, User Experience – a Research Agenda. Behaviour and Information Technology, Vol. 25, No. 2, March–April 2006, pp. 91-97
