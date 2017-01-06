@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Para o usuário final, a experiência é o que importa"
-date:   2017-06-01 11:00:00
+date:   2017-01-06 11:00:00
 description: A experiência do usuário (UX) é fundamental para um software, e é uma consequência de alguns aspectos, entre eles, características do sistema que não estão relacionadas a usabilidade ou a interface do usuário (UI).
 categories:
 - engineering, ux
@@ -9,12 +9,14 @@ permalink: experiência-eh-o-que-importa
 ---
 
 Há um tempo, quando eu estava fazendo uma consultoria de arquitetura de software, ouvi de um consultor de negócios a seguinte afirmação:
+
 > A única coisa que importa em um software é a sua interface (UI)
 
 Discordei na hora e enumerei alguns motivos pelos quais eu não acredito na afirmação. Quem me conhece sabe que eu discordo, pois penso que a forma com que o software é desenvolvido (ferramentas, tecnologias, design, arquitetura, técnicas, métodos etc) importa muito.
 A discussão não foi muito longa, mas como esse consultor é  uma pessoa que eu considero ter uma boa visão sobre tecnologia, eu tentei entender o que estaria por trás daquela afirmação.
 
 Logo que comecei a pensar um pouco, lembrei de uma das “99 coisas que todo arquiteto de software deveria saber” (um dos primeiros livros que eu lí sobre arquitetura de software - mediano):
+
 > For the end-user, the interface is the system. 
 > -- Vinayak Hegde, 99 Things Every Software Architect Should Know
 
@@ -31,7 +33,8 @@ Embora interface, usabilidade e experiência de usuário estejam relacionadas el
 Voltando as afirmações do consultor e do livro:
 É importante um software ter uma boa interface? Sim. É importante ter uma boa usabilidade? Sim. Mas, estas, são apenas duas de muitas características de experiência de usuário (ou apenas UX). 
 
-**UX é uma consequência de aspectos mais amplos, como** [1]: 
+**UX é uma consequência de aspectos mais amplos, como** [[1]]:
+
 * **O estado interno do usuário:** predisposições, expectativas, necessidades e experiência anterior.
 * **Características do sistema:** tempo de resposta, disponibilidade, usabilidade e funcionalidade.
 * **Contexto:** qual é o contexto de uso do sistema, quem utiliza, por qual motivo e o que está envolvido.
