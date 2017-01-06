@@ -17,7 +17,8 @@ A discussão não foi muito longa, mas como esse consultor é  uma pessoa que eu
 
 Logo que comecei a pensar um pouco, lembrei de uma das “99 coisas que todo arquiteto de software deveria saber” (um dos primeiros livros que eu lí sobre arquitetura de software - mediano):
 
-> For the end-user, the interface is the system. 
+> For the end-user, the interface is the system.
+
 > -- Vinayak Hegde, 99 Things Every Software Architect Should Know
 
 Discordo de ambas afirmações, pois acredito que uma imprecisão, muito comum, é repetida em ambas: A confusão entre User Interface, Usability e User eXperience.
@@ -33,7 +34,7 @@ Embora interface, usabilidade e experiência de usuário estejam relacionadas el
 Voltando as afirmações do consultor e do livro:
 É importante um software ter uma boa interface? Sim. É importante ter uma boa usabilidade? Sim. Mas, estas, são apenas duas de muitas características de experiência de usuário (ou apenas UX). 
 
-**UX é uma consequência de aspectos mais amplos, como** [[1]]:
+**UX é uma consequência de aspectos mais amplos, como** `[1]`:
 
 * **O estado interno do usuário:** predisposições, expectativas, necessidades e experiência anterior.
 * **Características do sistema:** tempo de resposta, disponibilidade, usabilidade e funcionalidade.
@@ -47,6 +48,7 @@ Práticas de programação como TDD, integração contínua, design simples etc.
 Por fim, prefiro a seguinte afirmação:
 
 > Para o usuário final, a experiência é o que importa.
+
 > -- Rafael Souza, 2017
 
 ## Referências:
