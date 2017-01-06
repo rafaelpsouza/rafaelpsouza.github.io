@@ -18,7 +18,7 @@ A discussão não foi muito longa, mas como esse consultor é  uma pessoa que eu
 Logo que comecei a pensar um pouco, lembrei de uma das “99 coisas que todo arquiteto de software deveria saber” (um dos primeiros livros que eu lí sobre arquitetura de software - mediano):
 
 > For the end-user, the interface is the system.
-
+>
 > -- Vinayak Hegde, 99 Things Every Software Architect Should Know
 
 Discordo de ambas afirmações, pois acredito que uma imprecisão, muito comum, é repetida em ambas: A confusão entre User Interface, Usability e User eXperience.
@@ -48,7 +48,7 @@ Práticas de programação como TDD, integração contínua, design simples etc.
 Por fim, prefiro a seguinte afirmação:
 
 > Para o usuário final, a experiência é o que importa.
-
+> 
 > -- Rafael Souza, 2017
 
 ## Referências:
