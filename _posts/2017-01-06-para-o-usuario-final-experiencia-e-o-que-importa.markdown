@@ -5,7 +5,7 @@ date:   2017-01-06 11:00:00
 description: A experiência do usuário (UX) é fundamental para um software, e é uma consequência de alguns aspectos, entre eles, características do sistema que não estão relacionadas a usabilidade ou a interface do usuário (UI).
 categories:
 - engineering, ux
-permalink: experiência-eh-o-que-importa
+permalink: experiencia-eh-o-que-importa
 ---
 
 Há um tempo, quando eu estava fazendo uma consultoria de arquitetura de software, ouvi de um consultor de negócios a seguinte afirmação:
